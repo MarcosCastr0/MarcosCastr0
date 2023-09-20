@@ -18,6 +18,6 @@
   <a href = "mailto:mp.sdcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-paulo-santos-de-castro-02b135206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/MarcosCastr0/MarcosCastr0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
